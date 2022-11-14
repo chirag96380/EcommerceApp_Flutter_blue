@@ -1,0 +1,84 @@
+{
+  "open": [
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "desc": "Apple iphone 12th generation",
+      "price": "999",
+      "color": "#33505a",
+      "image": "https://cdn.pixabay.com/photo/2020/02/18/04/54/iphone-4858453_960_720.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "desc": "Which Mac is right for you",
+      "price": "99900",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "id": 3,
+      "name": "AirPods Pro",
+      "desc": "Active Noise Cancellation",
+      "price": "26300",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1624258919367-5dc28f5dc293?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "id": 4,
+      "name": "iMac",
+      "desc": "Designed for Mac",
+      "price": "14111",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1622541625148-eb2c92ed1ec3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1460&q=80"
+    },
+    {
+      "id": 5,
+      "name": "iphone 7",
+      "desc": "Apple iphone 7th generation",
+      "price": "555",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 6,
+      "name": "AirPodS",
+      "desc": "Airpoads only",
+      "price": "2630",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1600375104627-c94c416deefa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "id": 7,
+      "name": "i phone X",
+      "desc": "Amazing prodect",
+      "price": "24811",
+      "color": "#33505a",
+      "image": "https://cdn.pixabay.com/photo/2017/10/19/17/56/iphone-2868623_960_720.jpg"
+    },
+    {
+      "id": 8,
+      "name": "i phone ",
+      "desc": "Amazing prodect",
+      "price": "24811",
+      "color": "#33505a",
+      "image": "https://cdn.pixabay.com/photo/2017/10/19/17/56/iphone-2868623_960_720.jpg"
+    },
+    {
+      "id": 9,
+      "name": "iphone 7",
+      "desc": "Apple iphone 7th generation",
+      "price": "555",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 10,
+      "name": "MacBook Air",
+      "desc": "Which Mac is right for you",
+      "price": "99900",
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    }
+  ]
+}
